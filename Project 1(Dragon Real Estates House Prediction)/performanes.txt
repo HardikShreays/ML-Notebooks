@@ -1,0 +1,14 @@
+desicion tree
+    Mean 4.28191806554684
+    STD 0.8040425282661862
+
+
+
+linearn model
+    Mean 5.030437102767305
+    STD 1.060766115829483
+
+
+Randonforest regressor
+    Mean 3.2907419266438858
+    STD 0.6231480444788727
